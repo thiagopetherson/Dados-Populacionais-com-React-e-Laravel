@@ -27,4 +27,4 @@ O frontend foi criado usando ReactJS e a API do Backend foi desenvolvida usando 
 ![image](https://user-images.githubusercontent.com/44420212/145264809-53866c90-35f7-411c-a565-e24426d62ca8.png)
 
 
-# OBS: Tenho um projeto similar desenvolvido com VueJS + Laravel. A intenção de desenvolver esse, foi praticar a integração entre React e Laravel.
+- OBS: Tenho um projeto similar desenvolvido com VueJS + Laravel. A intenção de desenvolver esse, foi praticar a integração entre React e Laravel.
